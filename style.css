@@ -863,8 +863,17 @@ body {
   .container {
     max-width: 100%;
   }
+  .header-main__img {
+    width: 100%;
+  }
   .first-section__right-text {
     min-width: 25rem;
+  }
+  .first-section__left-img {
+    width: 100%;
+  }
+  .second-section__right-img {
+    width: 100%;
   }
 
   .header-bottom__svg2 {
